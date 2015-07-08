@@ -1,4 +1,4 @@
-Calculator-android-app
+#Calculator-android-app
 Basic Android Calculator 
 This app can perform only simple arithmetic operations. 
 I have made my algorithm to solve mathematical expression by converting them from a string. 
